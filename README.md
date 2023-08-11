@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/97/e9/79/97e979731beadb50be38e6e273ebfeef.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/serverless-nextjs/serverless-next.js/master/img/logo.gif" height="175px"/></a>
 
 <h1 align="center">Project Vest.ID </h1>
 <h3 align="center">E-Commerse For Clothing 👕</h3>
